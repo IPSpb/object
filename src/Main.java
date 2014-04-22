@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        Point originOne = new Point(12, 69);
+        Point originOne = new Point(56, 69);
         Rectangle rectOne = new Rectangle();
         Rectangle rectTwo = new Rectangle();
       /*  Rectangle rectOne = new Rectangle(originOne, 200, 300);
